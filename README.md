@@ -1,6 +1,6 @@
 # Lungs-CT-scans-Classification
 
-# 🦠 COVID-19 Detection from Lung CT Scans using Attention-enhanced Xception Network
+# 🦠 COVID-19 Detection from Lung CT Scans using Attention-enhanced Xception Network | IEEE [https://ieeexplore.ieee.org/document/11233861]
 
 This project presents an advanced deep learning model for binary classification of lung CT scans into **COVID-positive** and **non-COVID** categories. Building upon the baseline proposed by **Chatterjee & Ghosh (2023)**, which used a deep CNN with 16-head channel attention, our model integrates **Xception** as the feature extractor with substantial architectural and training enhancements. These changes improve accuracy, reduce overfitting, and make the model highly robust for real-world deployment.
 
